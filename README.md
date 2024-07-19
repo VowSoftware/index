@@ -3,3 +3,13 @@
 This repository links to educational resources that are relevant to my work in software and game development.
 
 Please click the ☆ button on GitHub if this repository is helpful. Thank you!
+
+---
+
+**Beginner's Guide to Linkers**  
+Type: Article  
+Link: https://www.lurklurk.org/linkers/linkers.html
+
+**3D Math Primer for Graphics and Game Development**  
+Type: Book  
+Link: https://www.gamemath.com/
